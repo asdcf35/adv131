@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+section:target{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+section{
+display: none;
+}
